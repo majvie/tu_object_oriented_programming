@@ -1,0 +1,38 @@
+[
+  {
+    "flightId": "0",
+    "departure": "Wien",
+    "destination": "Beijing",
+    "price": 200.0
+  },
+  {
+    "flightId": "1",
+    "departure": "Beijing",
+    "destination": "Hong Kong",
+    "price": 300.0
+  },
+  {
+    "flightId": "2",
+    "departure": "Hong Kong",
+    "destination": "Los Angeles",
+    "price": 400.0
+  },
+  {
+    "flightId": "3",
+    "departure": "Los Angeles",
+    "destination": "New York",
+    "price": 500.0
+  },
+  {
+    "flightId": "4",
+    "departure": "New York",
+    "destination": "London",
+    "price": 600.0
+  },
+  {
+    "flightId": "5",
+    "departure": "London",
+    "destination": "Berlin",
+    "price": 100.0
+  }
+]
